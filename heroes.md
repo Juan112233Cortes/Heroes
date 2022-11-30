@@ -5,4 +5,5 @@
 ** Daredvil **
 ** Aquaman **
 ** Wonderwoman **
-
+** Linterna Verde **
+** Robin **
